@@ -1,0 +1,39 @@
+body{
+    width: 100vh;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-image: url(bg.jpg);
+}
+.main img{
+ width: 400px;
+ height: 400px;
+}
+.container{
+    
+}
+.container img{
+    width: 80px;
+    height: 80px;
+    /* text-align: center; */
+}
+
+img{
+    border: 2px solid black;
+}
+.all{
+    text-align: center;
+}
+#four{
+
+}
+.do{
+    display: flex;
+}
+#fr{
+    padding-left: 150px;
+
+}
+#se{
+    padding-left: 150px;
+}
